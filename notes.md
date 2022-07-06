@@ -1,0 +1,9 @@
+https://github.com/openmm/openmm/issues/2682    
+https://github.com/openmm/openmm/issues/2880    
+https://github.com/choderalab/gbff-prototypes/blob/50a50baaab951b9f2a51384be75aa814e5de0f87/examples/gbsa/evaluate-gbsa.py     
+https://github.com/choderalab/gbff-prototypes/blob/50a50baaab951b9f2a51384be75aa814e5de0f87/examples/gbsa/utils.py      
+https://github.com/choderalab/gbff/blob/27860c88fc5cfefea96f49558f7dd4bbfcd7edb0/hydration_energies/energytasks.py     
+https://github.com/search?q=openmm+mmgbsa&type=issues     
+https://github.com/openmm/openmm/issues/923     
+https://vimsky.com/zh-tw/examples/detail/python-ex-simtk.openmm-CustomGBForce-addPerParticleParameter-method.html      
+https://on-demand.gputechconf.com/gtc/2014/presentations/S4184-openmm-gpu-accelerated-algorithm-dev-molecular-dynamics.pdf      
